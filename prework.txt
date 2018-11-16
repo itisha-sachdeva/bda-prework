@@ -1,0 +1,13 @@
+WORLD HEALTH DATA-
+
+SOURCE OF DATA
+https://datacatalog.worldbank.org/dataset/health-nutrition and population-statistics
+
+SOFTWARE USED
+tableau
+
+PRE-PROCESSING WORK
+To handle large number of null values and to filter out birth rate for male population and female population for all the countries from the given given dataset.
+
+PRE-VISUALIZATION WORK
+I will be doing comparision between the countires data for given years against selected "Indicated name".
